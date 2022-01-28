@@ -1,4 +1,4 @@
-## Hello dear friend, my name is Vitor and welcome to my world 🌎
+## Hello dear friend! my name is Vitor and welcome to my world 🌎
 
 ### About me 🧔🏻  
 &nbsp;&nbsp;I am a web world enthusiast from planet earth, like to learn new things everyday and build a world with them. I love the fact that I always have something new to learn.
