@@ -8,7 +8,7 @@
 
   I am have knowledge in HTML, CSS and JavaScript and looking for more and more... and more 🤓
   
-  <div>
+  <div style="display: flex; align-items: center; justify-content: center;">
     <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
