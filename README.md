@@ -1,15 +1,15 @@
 ## Hello dear friend, my name is Vitor and welcome to my world 🖖🏻 
 
 ### About me 🧔🏻  
-&nbsp;I am a web world enthusiast from planet earth, like to learn new things everyday and build a world with them. I love the fact that I always have something new to learn.
+&nbsp;&nbsp;I am a web world enthusiast from planet earth, like to learn new things everyday and build a world with them. I love the fact that I always have something new to learn.
   
 ### Knowledge 💪🏻 
 
-&nbsp;I am have knowledge in HTML, CSS and JavaScript and looking for more and more... and more 🤓
+&nbsp;&nbsp;I am have knowledge in HTML, CSS and JavaScript and looking for more and more... and more 🤓
   
 ### Learning 📖
 
-&nbsp;Currently i am learning about React JS and Node and consequently improving my knowledge about JavaScript
+&nbsp;&nbsp;Currently i am learning about React JS and Node and consequently improving my knowledge about JavaScript
 
 <div align="center">
   <img width="440" src="https://c.tenor.com/udYl1CJgloUAAAAd/yoda-star-wars.gif" />
