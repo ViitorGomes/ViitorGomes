@@ -17,8 +17,10 @@
 ### Learning 📖
 
   Currently i am learning about React JS and Node and consequently improving my knowledge about JavaScript
-
-  ![learning am I](https://c.tenor.com/udYl1CJgloUAAAAd/yoda-star-wars.gif)
+  
+  <div align="center">
+    <img width="200" src="https://c.tenor.com/udYl1CJgloUAAAAd/yoda-star-wars.gif" />
+  </div>
   
 ### Contact
 
