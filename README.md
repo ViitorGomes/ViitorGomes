@@ -1,4 +1,4 @@
-# Hello dear friend, my name is Vitor and welcome to my world 🖖🏻 
+## Hello dear friend, my name is Vitor and welcome to my world 🖖🏻 
 
 ### About me 🧔🏻 
 
@@ -9,9 +9,9 @@
   I am have knowledge in HTML, CSS and JavaScript and looking for more and more... and more 🤓
   
   <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </div>
   
 ### Learning 📖
