@@ -18,7 +18,7 @@
 
   Currently i am learning about React JS and Node and consequently improving my knowledge about JavaScript
   
-  ![learning am I](https://tenor.com/view/yoda-star-wars-learning-am-i-gif-16531775)
+  <div class="tenor-gif-embed" data-postid="16531775" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/yoda-star-wars-learning-am-i-gif-16531775">Yoda Star Wars GIF</a>from <a href="https://tenor.com/search/yoda-gifs">Yoda GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
   
 ### Contact
