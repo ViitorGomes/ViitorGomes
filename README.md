@@ -2,16 +2,16 @@
 
 ### About me 🧔🏻 
 
-  **I am a web world enthusiast from planet earth, like to learn new things everyday and build a world with them. I love the fact that I always have something new to learn.
+  &nbsp I am a web world enthusiast from planet earth, like to learn new things everyday and build a world with them. I love the fact that I always have something new to learn.
   
 ### Knowledge 💪🏻 
 
-  **I am have knowledge in HTML, CSS and JavaScript and looking for more and more... and more 🤓
+  &nbsp I am have knowledge in HTML, CSS and JavaScript and looking for more and more... and more 🤓
   
   
 ### Learning 📖
 
-  **Currently i am learning about React JS and Node and consequently improving my knowledge about JavaScript
+  &nbsp Currently i am learning about React JS and Node and consequently improving my knowledge about JavaScript
   
   <div align="center">
     <img width="440" src="https://c.tenor.com/udYl1CJgloUAAAAd/yoda-star-wars.gif" />
