@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello dear friend, my name is Vitor and welcome to my world 🖖🏻 
 
-<!--
-**ViitorGomes/ViitorGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me 🧔🏻 
 
-Here are some ideas to get you started:
+  I am a web world enthusiast from planet earth, like to learn new things everyday and build a world with them. I love the fact that I always have something new to learn.
+  
+### Knowledge 💪🏻 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  I am have knowledge in HTML, CSS and JavaScript and looking for more and more... and more 🤓
+  
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </div>
+  
+### Learning 📖
+
+  Currently i am learning about React JS and Node and consequently improving my knowledge about JavaScript
+  
+  ![learning am I](https://tenor.com/view/yoda-star-wars-learning-am-i-gif-16531775)
+  
+  
+### Contact
+
+  <div>
+    <a href="https://www.instagram.com/jvittorgomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="mailto:devitor.contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/vitor-gomes-b9a629201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://twitter.com/VitorGomesRS/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   
+  </div>
