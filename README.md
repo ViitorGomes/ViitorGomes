@@ -19,7 +19,7 @@
   Currently i am learning about React JS and Node and consequently improving my knowledge about JavaScript
   
   <div align="center">
-    <img width="200" src="https://c.tenor.com/udYl1CJgloUAAAAd/yoda-star-wars.gif" />
+    <img width="440" src="https://c.tenor.com/udYl1CJgloUAAAAd/yoda-star-wars.gif" />
   </div>
   
 ### Contact
